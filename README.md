@@ -1,4 +1,4 @@
-# multilevel_inverter_17Level
+# switched capacitor multilevel inverter (17Level)
 
 <img src="https://github.com/ShahinSabour/multilevel_inverter_17Level/blob/main/images/17%20level%20inverter.png">
 
